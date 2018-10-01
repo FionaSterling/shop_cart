@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Soap",
+      "price": 4.86,
+      "description": "This is a bar of soap."
+    },
+    {
+      "id": 1,
+      "title": "Grapes",
+      "price": 1.72,
+      "description": "These are grapes on a vine."
+    },
+    {
+      "id": 2,
+      "title": "T-Shirt",
+      "price": 3.04,
+      "description": "This is a t-shirt."
+    },
+    {
+      "id": 3,
+      "title": "Oranges",
+      "price": 17.26,
+      "description": "These oranges are orange colored."
+    },
+    {
+      "id": 4,
+      "title": "Table",
+      "price": 44.54,
+      "description": "This table is great for setting things on."
+    },
+    {
+      "id": 5,
+      "title": "Waterbottle",
+      "price": 6.27,
+      "description": "Holds cold water."
+    }
+  ]
+}
